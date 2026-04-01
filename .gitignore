@@ -1,2 +1,7 @@
 /web/dist/
-za
+/web/node_modules/
+
+# Compiled binaries — never commit pre-built executables
+/copilot-go
+/copilot-go.exe
+/*.exe
